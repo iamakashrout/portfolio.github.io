@@ -1,0 +1,9 @@
+Name: Akash Rout
+Date of Birth: February 13, 2003
+Gender: Male
+City: Chandigarh
+Country: India
+Phone Number: 8376996752
+Email ID: iamakashrout@gmail.com
+Education: Punjab Engineering College
+Degree: B.Tech in Computer Science and Engineering
